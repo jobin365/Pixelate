@@ -6,7 +6,7 @@ This project was created by me as part of my effort to learn email development u
 
 - Responsive 3by3 grid of images
 - Online: 
-- Testi@: https://testi.at/proj/aye5tpxd12nnueob
+- Testi@: https://testi.at/proj/kgl8ibjes2j4uzzailj
 
 ## Primary
 
