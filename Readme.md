@@ -4,12 +4,12 @@ This project was created by me as part of my effort to learn email development u
 
 ## Grid 3by3
 
-- Simple responsive 3by3 grid of images
-- View online: 
-- Testi@ previews: 
+- Responsive 3by3 grid of images
+- Online: 
+- Testi@: 
 
 ## Primary
 
-- Simple responsive module with a heading paragraph and a button
-- View online: 
-- Testi@ previews: 
+- Module with a heading paragraph and a button
+- Online: 
+- Testi@: https://testi.at/proj/aye5tpxd12nnueob
