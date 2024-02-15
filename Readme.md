@@ -12,4 +12,4 @@ This project was created by me as part of my effort to learn email development u
 
 - Module with a heading paragraph and a button
 - Online: 
-- Testi@: https://testi.at/proj/aye5tpxd12nnueob
+- Testi@: https://testi.at/proj/aye5t52kun7puyrc3
