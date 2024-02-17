@@ -6,10 +6,10 @@ This project was created by me as part of my effort to learn email development u
 
 - Responsive 3by3 grid of images
 - Online: 
-- Testi@: https://testi.at/proj/kgl8ibjes2j4uzzailj
+- Testi@: https://testi.at/proj/ayeli63ofjrrfyl8s3n
 
 ## Primary
 
 - Module with a heading paragraph and a button
 - Online: 
-- Testi@: https://testi.at/proj/aye5t52kun7puyrc3
+- Testi@: https://testi.at/proj/4z4rf946fvgg1ladi9
