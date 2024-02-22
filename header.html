@@ -94,9 +94,15 @@
       }
 
       @media screen and (max-width: 600px) {
+        .header .logo {
+          width: 75px !important;
+        }
       }
 
       @media screen and (max-width: 400px) {
+        .header .logo {
+          width: 50px !important;
+        }
       }
 
       /* :root {
@@ -216,9 +222,18 @@
           role="presentation"
         >
           <!-- header START -->
-          <tr class="primary">
-            <td style="padding: 25px; background-color: #201658">
-              <img src="https://i.ibb.co/4FWkJ9V/px-logo-blue-nopadding.png" alt="Pixelate" width="100" style="width: 100px;display: block;">
+          <tr class="header">
+            <td
+              class="logo-wrap"
+              style="padding: 25px; background-color: #201658"
+            >
+              <img
+                class="logo"
+                src="https://i.ibb.co/4FWkJ9V/px-logo-blue-nopadding.png"
+                alt="Pixelate"
+                width="100"
+                style="width: 100px; display: block"
+              />
             </td>
           </tr>
           <!-- header END -->
