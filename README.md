@@ -10,6 +10,10 @@ This project was created by me as part of my effort to learn email development u
 
 ![Primary](./screenshots/primary.png)
 
+## Banner
+
+![Banner](./screenshots/banner.png)
+
 ## Rectangle
 
 ![Rectangle](./screenshots/rectangle.png)
