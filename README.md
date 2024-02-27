@@ -21,3 +21,7 @@ This project was created by me as part of my effort to learn email development u
 ## Grid 9
 
 ![Grid 9](./screenshots/grid9.png)
+
+## Footer
+
+![Footer](./screenshots/footer.png)
