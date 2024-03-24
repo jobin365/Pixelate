@@ -14,6 +14,10 @@ This project was created by me as part of my effort to learn email development u
 
 ![Banner](./screenshots/banner.png)
 
+## Column 2
+
+![Banner](./screenshots/column2.png)
+
 ## Rectangle
 
 ![Rectangle](./screenshots/rectangle.png)
