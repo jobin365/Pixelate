@@ -16,7 +16,11 @@ This project was created by me as part of my effort to learn email development u
 
 ## Column 2
 
-![Banner](./screenshots/column2.png)
+![Column 2](./screenshots/column2.png)
+
+## Column 3
+
+![Column 3](./screenshots/column3.png)
 
 ## Rectangle
 
